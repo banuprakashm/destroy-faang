@@ -7,6 +7,11 @@ Crack FAANG with step-by-step problems and solutions
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 
+# Table of content
+
+| S.no  | Problem Statement & Solution Link   |
+| ------------ | ------------ |
+|1   | [Problem Statement 1](https://github.com/banuprakashm/destroy-faang "Problem Statement 1")|
 
 ## Contributing
 
